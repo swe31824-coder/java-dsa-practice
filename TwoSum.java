@@ -1,4 +1,4 @@
-public class addtwo{
+public class TwoSum{
     public static void main(String[]args){
         int[]arr={1,2,8,3,9,0};
         int sum=12;
