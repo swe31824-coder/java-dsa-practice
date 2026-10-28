@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0290-word-pattern](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0290-word-pattern) |
 ## Union-Find
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
