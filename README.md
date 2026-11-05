@@ -9,6 +9,7 @@
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | [0290-word-pattern](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0645-set-mismatch) |
 ## Union-Find
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -53,6 +56,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
