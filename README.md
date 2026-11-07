@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
 | ------- |
