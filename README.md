@@ -8,6 +8,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -69,4 +71,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
