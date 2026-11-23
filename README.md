@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0152-maximum-product-subarray) |
@@ -85,8 +86,10 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
