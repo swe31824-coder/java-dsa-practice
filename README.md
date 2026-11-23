@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0290-word-pattern) |
 ## Binary Search
 |  |
