@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/swe31824-coder/java-dsa-practice/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/swe31824-coder/java-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
